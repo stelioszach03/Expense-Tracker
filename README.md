@@ -2,33 +2,21 @@
 
 ## Description
 
-This is an expense tracker application that allows users to monitor their expenses. Users can add, delete, and categorize their expenses to have a better understanding of their spending habits.
+Expense Tracker is a user-friendly web application designed to help individuals manage their personal finances with ease. It allows users to record their income and expenses, categorize them, and visualize their financial habits over time. With a sleek and intuitive interface, this tool aims to simplify budgeting and encourage financial awareness.
 
 ## Features
 
-* Add new expenses with date, amount, category, and notes
-* Delete existing expenses
-* Categorize expenses
-* View expenses in a list or a chart
-* Filter expenses by date, category, or amount
+- **Add Income/Expense Entries:** Log your income and expenses with details such as amount, category, and date.
 
 ## Installation
 
-To install the application, follow these steps:
+Clone the repository to your local machine:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd expense-tracker`
-3. Install dependencies: `npm install` or `yarn install`
-4. Start the application: `npm start` or `yarn start`
-
-## Usage
-
-After starting the application, navigate to `http://localhost:3000` in your web browser. From there, you can start adding your expenses.
-
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before making any changes.
+```bash
+git clone https://github.com/stelioszach03/Expense-Tracker
+cd Expense-Tracker
+```
 
 ## License
 
-This project is licensed under the MIT License.
+This project is open-source and available under the MIT License. See the [LICENSE.md](LICENSE) file for more details.
